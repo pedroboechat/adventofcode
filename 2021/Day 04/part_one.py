@@ -1,6 +1,6 @@
 """
 Advent of Code 2021
-Day 4 - Giant Squid (Part One)
+Day 4: Giant Squid (Part One)
 """
 
 import re

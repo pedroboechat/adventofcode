@@ -1,6 +1,6 @@
 """
 Advent of Code 2015
-Day 1 - Not Quite List (Part Two)
+Day 1: Not Quite List (Part Two)
 """
 
 with open("./input.txt", encoding="utf-8") as file:

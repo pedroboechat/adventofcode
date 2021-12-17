@@ -1,6 +1,6 @@
 """
 Advent of Code 2021
-Day 6 - Lanternfish (Part Two)
+Day 6: Lanternfish (Part Two)
 """
 
 with open("./input.txt", encoding="utf-8") as file:

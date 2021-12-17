@@ -1,10 +1,10 @@
 """
 Advent of Code 2015
-Day 2 - I Was Told There Would Be No Math (Part Two)
+Day 2: I Was Told There Would Be No Math (Part Two)
 """
 
 with open("./input.txt", encoding="utf-8") as file:
-    data = file.read().split("\n")
+    data = file.read().splitlines()
 
 total = 0
 

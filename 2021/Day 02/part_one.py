@@ -1,10 +1,10 @@
 """
 Advent of Code 2021
-Day 2 - Dive! (Part One)
+Day 2: Dive! (Part One)
 """
 
 with open("./input.txt", encoding="utf-8") as file:
-    data = file.read().split("\n")
+    data = file.read().splitlines()
 
 horizontal = 0
 depth = 0

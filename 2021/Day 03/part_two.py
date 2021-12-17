@@ -1,6 +1,6 @@
 """
 Advent of Code 2021
-Day 3 - Binary Diagnostic (Part Two)
+Day 3: Binary Diagnostic (Part Two)
 """
 
 import pandas as pd

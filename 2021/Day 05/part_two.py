@@ -1,6 +1,6 @@
 """
 Advent of Code 2021
-Day 5 - Hydrothermal Venture (Part Two)
+Day 5: Hydrothermal Venture (Part Two)
 """
 
 import numpy as np

@@ -1,6 +1,6 @@
 """
 Advent of Code 2015
-Day 3 - Perfectly Spherical Houses in a Vacuum (Part One)
+Day 3: Perfectly Spherical Houses in a Vacuum (Part One)
 """
 
 with open("./input.txt", encoding="utf-8") as file:

@@ -1,10 +1,10 @@
 """
 Advent of Code 2021
-Day 1 - Sonar Sweep (Part One)
+Day 1: Sonar Sweep (Part One)
 """
 
 with open("./input.txt", encoding="utf-8") as file:
-    data = [int(i) for i in file.read().split("\n")]
+    data = [int(i) for i in file.read().splitlines()]
 
 previous = data[0]
 increases = 0

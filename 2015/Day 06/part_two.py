@@ -1,6 +1,6 @@
 """
 Advent of Code 2015
-Day 6 - Probably a Fire Hazard (Part Two)
+Day 6: Probably a Fire Hazard (Part Two)
 """
 
 import numpy as np

@@ -1,6 +1,6 @@
 """
 Advent of Code 2015
-Day 4 - The Ideal Stocking Stuffer (Part One)
+Day 4: The Ideal Stocking Stuffer (Part One)
 """
 
 import hashlib
